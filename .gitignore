@@ -39,6 +39,9 @@ Thumbs.db
 *.app
 *.exe
 *.war
+.classpath
+.project
+.settings/
 
 # Large media files
 *.mp4
@@ -47,4 +50,3 @@ Thumbs.db
 *.flv
 *.mov
 *.wmv
-
